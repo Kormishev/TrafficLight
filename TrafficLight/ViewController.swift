@@ -31,11 +31,6 @@ final class ViewController: UIViewController {
             redLightView.alpha = 0.3
             yellowLightView.alpha = 1
         }
-        
-        
     }
-    
-
-
 }
 
